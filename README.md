@@ -9,7 +9,7 @@ The dataset used for this project is the famous Titanic dataset from Kaggle. It 
 ## Files
 - `train.csv`: CSV file containing the training dataset.
 - `test.csv`: CSV file containing the test dataset.
-- `titanic_classification.ipynb`: Jupyter Notebook containing the Python code for data preprocessing, model building, and evaluation.
+- `hw_1.ipynb`: Jupyter Notebook containing the Python code for data preprocessing, model building, and evaluation.
 
 ## Approach
 1. **Data Preprocessing**: Handling missing values, feature engineering, and encoding categorical variables.
