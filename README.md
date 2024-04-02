@@ -36,7 +36,7 @@ The dataset used for this project is the famous Titanic dataset from Kaggle. It 
 The best-performing model achieved an accuracy of X% on the test set.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Chetan Choudhary](https://github.com/chetan-codes)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
